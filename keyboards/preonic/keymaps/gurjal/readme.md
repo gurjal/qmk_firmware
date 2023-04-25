@@ -1,1 +1,3 @@
-# The default Preonic layout - largely based on the Planck's
+# gurjal's preonic layout
+flash cmd:
+    qmk flash -kb preonic/rev3 -km gurjal
